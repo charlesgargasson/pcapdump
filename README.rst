@@ -12,7 +12,7 @@ Getting started
 
 .. code-block:: bash
 
-    pipx install git+https://github.com/charles.gargasson/pcapdump@main
+    pipx install git+https://github.com/charlesgargasson/pcapdump@main
     # pipx uninstall pcapdump
     # pipx upgrade pcapdump
 
